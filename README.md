@@ -4,7 +4,7 @@ A Python-based version of Asteroids using [pygame](https://www.pygame.org/) from
 
 Run via CLI w/ venv
 
-```
+```console
 # Setup virtual environment
 python3 -m venv venv
 source venv/bin/activate
